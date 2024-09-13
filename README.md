@@ -47,6 +47,3 @@ The app fetches room information (such as room name and image) from a backend AP
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
